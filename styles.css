@@ -30,7 +30,7 @@ section {
 
 .inicio-fundo {
     /* aula 3 */
-    background-image: url('img/4965007.jpg');
+    background-image: url('Porsche_992_Turbo_S_1X7A0413.jpg');
     /* Substitua pelo caminho da sua imagem */
     background-size: cover;
     background-position: right;
@@ -74,7 +74,7 @@ section {
 }
 
 
-#tropicalia {
+#porsche {
     position: relative;
     padding-top: 5rem;
     margin-top: 3rem;
