@@ -79,13 +79,13 @@ section {
     padding-top: 5rem;
     margin-top: 3rem;
     margin-bottom: 3rem;
-    background: url('img/flor.png') top right no-repeat,
-        url('img/flor-esquerda.png') bottom left no-repeat;
+    background: url('Moscow\,_white_Porsche_convertible\,_July_2024_02.jpg') top right no-repeat,
+        url('Porsche_718_Boxster_T_Genf_2019_1Y7A5425.jpg') bottom left no-repeat;
     background-size: 180px 180px;
     /* Ajuste o tamanho conforme necessário */
 }
 
-#tropicalia .container {
+#porsche .container {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -108,12 +108,12 @@ h2 {
 }
 
 .fundo-galeria {
-    background: url('img/flor-bottom-direita.png') bottom right no-repeat;
+    background: url('Porsche_Cayman_GTS_\(981C\)_3.4.jpg') bottom right no-repeat;
     background-size: 180px 180px;
 }
 
 #contato {
-    background-image: url('img/4965007.jpg');
+    background-image: url('Porsche_718_Boxster_T_Genf_2019_1Y7A5425.jpg');
     background-size: cover;
     padding: 4rem 0;
     /* Espaçamento interno para a seção de contato */
